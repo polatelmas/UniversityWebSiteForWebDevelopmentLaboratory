@@ -8270,6 +8270,18 @@ section,
   }
 }
 
+/* Kart hover efekti */
+.faculty-card, .faculty-profile {
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* animasyon */
+  cursor: pointer;
+}
+
+.faculty-card:hover, .faculty-profile:hover {
+  transform: translateY(-10px); /* yukarı kalkma efekti */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* gölge efekti */
+}
+
+
 /*--------------------------------------------------------------
 # Error 404 Section
 --------------------------------------------------------------*/
