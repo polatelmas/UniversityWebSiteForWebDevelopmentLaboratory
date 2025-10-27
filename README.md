@@ -1,12 +1,12 @@
-🌟 Sivas University of Science and Technology (SUST) Website
+# 🌟 Sivas University of Science and Technology (SUST) Website
 
-✨ Overview
+## ✨ Overview
 
 This repository contains the official institutional website for the Sivas University of Science and Technology (SUST), an academic institution focused on engineering and technological disciplines.
 
 The website serves as a primary informational portal for prospective students, current staff, and the wider community, showcasing academic programs, campus facilities, recent news, and upcoming events.
 
-💻 Key Features
+## 💻 Key Features
 
 The site is designed for clarity, accessibility, and professional presentation:
 
@@ -22,7 +22,7 @@ Interactive Elements: Utilization of modern JavaScript libraries for smooth visu
 
 Multi-Page Navigation: Structured navigation to main pages (Home, About, Contact) and sub-sections (Faculty & Staff, Campus Tour).
 
-⚙️ Tech Stack & Dependencies
+## ⚙️ Tech Stack & Dependencies
 
 This project is built using a classic, robust, and performant web stack:
 
@@ -44,11 +44,11 @@ PureCounter: For animating statistical numbers on load.
 
 Template Base: MySchool Template by BootstrapMade.
 
-🚀 Installation and Local Development
+## 🚀 Installation and Local Development
 
 Since this is a static HTML/CSS/JS site, running it locally is very straightforward.
 
-Prerequisites
+## Prerequisites
 
 You need a web server environment to serve the files, such as:
 
@@ -74,15 +74,15 @@ Option B: Using Node.js HTTP Server
 
 If you have Node.js installed, run a simple HTTP server package (like http-server):
 
-# Install globally (if needed)
+Install globally (if needed)
 npm install -g http-server
-# Run server from the root directory
+Run server from the root directory
 http-server .
 
 
 The site will typically open at http://localhost:8080.
 
-📂 Project Structure
+## 📂 Project Structure
 
 The file structure follows a standard template convention:
 
@@ -99,7 +99,7 @@ The file structure follows a standard template convention:
 └── README.md
 
 
-🤝 Contribution & Maintenance
+## 🤝 Contribution & Maintenance
 
 We welcome contributions to help keep the website information accurate and the design modern. Please follow standard fork/pull request procedures.
 
