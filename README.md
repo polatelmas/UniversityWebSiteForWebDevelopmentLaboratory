@@ -82,23 +82,6 @@ http-server .
 
 The site will typically open at http://localhost:8080.
 
-## 📂 Project Structure
-
-The file structure follows a standard template convention:
-
-/
-├── index.html        # Main homepage
-├── about.html        # About Us page
-├── contact.html      # Contact page
-├── [other-pages].html # Additional content pages
-├── assets/
-│   ├── css/          # Custom CSS files (main.css)
-│   ├── js/           # Custom and main JavaScript files
-│   ├── img/          # All images (campus, programs, news)
-│   └── vendor/       # Third-party dependencies (Bootstrap, Swiper, GLightbox, etc.)
-└── README.md
-
-
 ## 🤝 Contribution & Maintenance
 
 We welcome contributions to help keep the website information accurate and the design modern. Please follow standard fork/pull request procedures.
